@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\Animal1049\bin\Debug\Animal1049.exe.config
+C:\Users\Heliton\Source\Repos\Animal1049\bin\Debug\Animal1049.exe
+C:\Users\Heliton\Source\Repos\Animal1049\bin\Debug\Animal1049.pdb
+C:\Users\Heliton\Source\Repos\Animal1049\obj\Debug\Animal1049.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Animal1049\obj\Debug\Animal1049.exe
+C:\Users\Heliton\Source\Repos\Animal1049\obj\Debug\Animal1049.pdb
